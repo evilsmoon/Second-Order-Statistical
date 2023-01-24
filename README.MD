@@ -1,3 +1,3 @@
-#Second-Order Statistical
-##(Descriptores de texturas) (25-34)
+# Second-Order Statistical
+## (Descriptores de texturas) (25-34)
 	
